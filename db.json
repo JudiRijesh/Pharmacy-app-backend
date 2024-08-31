@@ -701,18 +701,6 @@
   ],
   "labtests": [
     {
-      "patientName": "Joshua Christian",
-      "phoneNumber": "+61 0 624356798",
-      "emailId": "christian.joshua@gmail.com",
-      "location": "Netherland",
-      "dateOfBirth": "1976-08-25",
-      "gender": "Male",
-      "priority": "Immediate",
-      "referringDoctor": "Dr. Richelle R Anthyn",
-      "test": "Absolute Polymorphs Test",
-      "id": 1
-    },
-    {
       "patientName": "Harold Gunderson",
       "phoneNumber": "+61 0 325674931",
       "emailId": "harold.gunderson@gmail.com",
@@ -721,8 +709,8 @@
       "gender": "Male",
       "priority": "Medium",
       "referringDoctor": "Dr. Lipschitz",
-      "test": "MCV Blood Test",
-      "slot": "06:45 - 07:00",
+      "test": "ALC Test",
+      "slot": "09:15 - 09:30",
       "id": 2
     },
     {
@@ -741,43 +729,10 @@
   ],
   "AddtoCart": [
     {
-      "id": 1,
-      "name": "Montek LC",
-      "price": "2.90",
-      "size": "10",
-      "quantity": 3
-    },
-    {
-      "id": "16A",
-      "name": "Smart Pill Dispenser with Alarm",
-      "price": "79.99",
-      "quantity": 2
-    },
-    {
-      "id": 2,
-      "name": "Razo 20",
-      "price": "4.89",
-      "size": "15",
-      "quantity": 1
-    },
-    {
-      "id": "2A",
       "name": "Wireless Blood Pressure Monitor with Smartphone App",
       "price": "79.99",
-      "quantity": 1
-    },
-    {
-      "id": "5A",
-      "name": "Smart Scale with Body Composition Analysis",
-      "price": "59.99",
-      "quantity": 3
-    },
-    {
-      "id": 8,
-      "name": "Dipsalic F Ointment   ",
-      "price": "14.89",
-      "size": "1",
-      "quantity": 2
+      "quantity": 3,
+      "id": 1
     }
   ]
 }
